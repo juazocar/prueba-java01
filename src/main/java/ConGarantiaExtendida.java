@@ -1,6 +1,4 @@
-package org.example;
-
 public interface ConGarantiaExtendida {
-    boolean tieneGarantiaExtendida();
+    boolean tieneGarantiaExtendidaActiva();
     void activarGarantiaExtendida();
 }
